@@ -1,4 +1,4 @@
 Scott Smythe - @grimflowers
 
-Web Development Geek interested in UI/UX and Front End Engineering.
-Currently studying CS at the University of Nevada, Reno.
+"People aren't wearing enough hats."
+Currently studying Math and CS at the University of Nevada, Reno.
